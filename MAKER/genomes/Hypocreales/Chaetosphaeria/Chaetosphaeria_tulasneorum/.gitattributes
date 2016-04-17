@@ -1,0 +1,2 @@
+Chaetosphaeria.fa filter=lfs diff=lfs merge=lfs -text
+Chaetosphaeria.mRNA.fa filter=lfs diff=lfs merge=lfs -text
