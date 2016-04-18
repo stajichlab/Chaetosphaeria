@@ -1,0 +1,5 @@
+Chaetosphaeria.v2.all.maker.augustus_masked.proteins.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Chaetosphaeria.v2.all.maker.genemark.proteins.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Chaetosphaeria.v2.all.maker.non_overlapping_ab_initio.proteins.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Chaetosphaeria.v2.all.maker.proteins.functional.fasta.gz filter=lfs diff=lfs merge=lfs -text
+Chaetosphaeria.v2.all.maker.snap_masked.proteins.fasta.gz filter=lfs diff=lfs merge=lfs -text
